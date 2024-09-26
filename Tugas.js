@@ -8,5 +8,6 @@ function draw() {
   background(0);
   fill(0, 255, 0);
   noStroke();
-  ellipse(width / 2, height / 2, 200, 200); 
+  ellipse(width / 2, height / 2, 200, 200);
+  rect(123,123,123);
 }
